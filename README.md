@@ -113,8 +113,6 @@ npm run dev
 
 ## 🧑‍💻 Author
 
-**Your Name**
-
 * GitHub: https://github.com/MiyuruWijesinghe
 
 ---

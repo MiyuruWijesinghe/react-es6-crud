@@ -106,7 +106,8 @@ npm run dev
 
 ## 📸 Preview
 
-> Add a screenshot here (recommended for portfolio)
+<img width="666" height="457" alt="image" src="https://github.com/user-attachments/assets/ac471969-a23b-40ce-a739-e525cf5199c0" />
+
 
 ---
 
